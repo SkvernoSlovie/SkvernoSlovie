@@ -1,5 +1,5 @@
 # Hi there 👋
-### ⚡I'm a beginner frontend developer!
+### ⚡ I'm a beginner frontend developer!
 ### 🌱 I’m currently learning JavaScript, TypeScript, ReactJS, HTML, CSS.
 ### 📫 How to reach me: 
  * **tm**: @SkvernoSlovie
