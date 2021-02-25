@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning JavaScript, TypeScript, ReactJS, HTML, CSS.
 <div>
   <img align="left" alt="react" width="30px" src="https://cdn.svgporn.com/logos/react.svg" />
-</div>
+</div> </br>
 ### 📫 How to reach me: 
  * **tm**: @SkvernoSlovie
  * [**vk**](https://vk.com/marclovin)
