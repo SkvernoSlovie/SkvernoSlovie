@@ -1,5 +1,10 @@
-### Hi there 👋
-
+# Hi there 👋
+### I'm a beginner frontend developer!
+### 🌱 I’m currently learning JavaScript, TypeScript, ReactJS, HTML, CSS.
+### 📫 How to reach me: 
+ * **tm**: @SkvernoSlovie
+ * [**vk**](https://vk.com/marclovin)
+ * **kireev.mark23@gmail.com**
 <!--
 **SkvernoSlovie/SkvernoSlovie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
