@@ -1,6 +1,6 @@
 # Hi there 👋
 ### ⚡ I'm a frontend developer!
-### 🌱 I’m currently learning JavaScript, TypeScript, ReactJS, Redux, SCSS, BEM.
+
 ### 📫 How to reach me: 
  * **tg**: @SkvernoSlovie
  * [**vk**](https://vk.com/marclovin)
